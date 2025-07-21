@@ -17,7 +17,7 @@ By using or assembling the Tipsy Badge, you acknowledge and agree to the followi
 
 2. Assumption of Risk - Use of this device may affect your balance, coordination, or perception. You may experience dizziness, discomfort, disorientation, or unexpected physiological effects. Use at your own risk.  While we have taken all measures we could think of to ensure safety, the creators make no guarantees about the safety, reliability, or effectiveness of this device. You agree that **you are solely responsible** for any and all effects, injuries, or damages that may occur through the use or misuse of this device.
 
-3. Not for Children - This device is **not intended for children or minors**. Users must be at least 18 years old and in good physical health. Do not use this device if you are pregnant, may become pregnant, want to impregnant someone else, have any medical condition (including but not limited to epilepsy, hearing disorders, balance issues, heart conditions), or have implanted medical devices (such as pacemakers).
+3. Not for Children - This device is **not intended for children or minors**. Users must be at least 18 years old and in good physical health. Do not use this device if you are pregnant, may become pregnant, want to impregnate someone else, have any medical condition (including but not limited to epilepsy, hearing disorders, balance issues, heart conditions), or have implanted medical devices (such as pacemakers).
 
 4. Safe Use Conditions - Only use the device:
 
