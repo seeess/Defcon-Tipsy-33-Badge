@@ -3,7 +3,7 @@
 
 ---  
 
-Video overview on youtube: TBD
+Video overview on youtube: https://www.youtube.com/watch?v=kScSm-BZAsY
 
 ---  
 
