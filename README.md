@@ -1,5 +1,5 @@
 # Defcon 33 Tipsy Badge
-<img width="1600" height="727" alt="tipsy readme" src="https://github.com/user-attachments/assets/5462e05d-183c-4650-8b86-d2a0d489499d" />
+![badge pic](assets/tipsy.readme.png)
 
 ---  
 
